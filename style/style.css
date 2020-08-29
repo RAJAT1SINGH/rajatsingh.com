@@ -1,7 +1,7 @@
 body{
 	background-image:url("blak1.jpg");
 	background-size: cover;
-	height: 100%;
+	
 
 }
 .topnav {
@@ -558,7 +558,7 @@ footer a{
 		margin-left: 90px;
 	}
 	.box2 .content2{
-		padding-left: 0px;
+		padding-left: 1px;
 		width: 600px;
 		
 	}
@@ -569,7 +569,7 @@ footer a{
 		width: 900px;
 	}
 	.box2 .content2 pre {
-				font-size: 18px;
+				font-size: 16px;
 	}
 }     
 	
