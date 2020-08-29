@@ -554,11 +554,11 @@ footer a{
 	}
 	.box2{
 		width: 600px;
-		margin-left: 140px;
+		margin-left: 100px;
 	}
 	.box2 .content2{
 		padding-left: 20px;
-		width: 650px;
+		width: 600px;
 		
 	}
 		.box3{
@@ -566,6 +566,9 @@ footer a{
 	}
 	.box3 .content3{
 		width: 900px;
+	}
+	.box2 .content2 pre {
+				font-size: 18px;
 	}
 }     
 	
