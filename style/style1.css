@@ -315,4 +315,10 @@ h1{
 	.box2 .content2 pre{
 		font-size:20px;
 	}
+	.box4 .p2{
+		padding-left: 40px;
+	}
+	.box2 .a1{
+		margin-left: 0px;
+	}
 	}
