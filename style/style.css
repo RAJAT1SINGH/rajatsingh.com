@@ -554,11 +554,11 @@ footer a{
 			width: 250px;
 	}
 	.box2{
-		width: 600px;
-		margin-left: 100px;
+		width: 640px;
+		margin-left: 90px;
 	}
 	.box2 .content2{
-		padding-left: 15px;
+		padding-left: 0px;
 		width: 600px;
 		
 	}
